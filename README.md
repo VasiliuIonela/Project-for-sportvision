@@ -52,7 +52,7 @@ The entry criteria defined in the Test Planning phase have been achieved and the
 Periodic reports were generated to reflect the current status of the testing process, in case of major problems, control measures could be taken.
 The following status report was generated, to view the actual progress:
 
-![image]()
+![image](https://github.com/VasiliuIonela/Project-for-sportvision/blob/main/Web%20capture_8-5-2023_182827_itfclasses.atlassian.net.jpeg)
 ## 1.3 Test Analysis
 ## 1.4 Test Design
 ## 1.5 Test Implementation
