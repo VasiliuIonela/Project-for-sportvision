@@ -6,6 +6,8 @@ Tools used: JIRA, Zephyr Squad.
 #Functional specifications
 
 The below Stories were created in Jira adn describe the functional specifications of the Registration module, Wishlist module, Reviews module adn Forget password module, for which this project is performed upon.
-![image]()
+
+![image](https://github.com/VasiliuIonela/Project-for-sportvision/blob/main/story%20registration.jpeg)
+
 ![image]()
 ![image]()
