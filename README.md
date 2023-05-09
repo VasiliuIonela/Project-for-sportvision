@@ -61,6 +61,9 @@ The following test cases were found:
 ![image](https://github.com/VasiliuIonela/Project-for-sportvision/blob/main/test%20cases%20sportvision.jpeg)
 ## 1.4 Test Design
 Functional test cases were created in Zephyr Squad.
+
+![image](https://github.com/VasiliuIonela/Project-for-sportvision/blob/main/test.cases.steps.jpeg)
+
 The test cases with steps can be viewed here:
 [test cases](https://github.com/VasiliuIonela/Project-for-sportvision/blob/main/Jira.pdf)
 
