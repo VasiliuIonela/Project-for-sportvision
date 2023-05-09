@@ -15,7 +15,7 @@ The below Stories were created in Jira adn describe the functional specification
 
 ![image](https://github.com/VasiliuIonela/Project-for-sportvision/blob/main/story%20create%20wishlist.jpeg)
 
-![image](https://github.com/VasiliuIonela/Project-for-sportvision/blob/main/story%20forget%20password.jpeg)
+![image](https://github.com/VasiliuIonela/Project-for-sportvision/blob/main/story%20reset%20password.jpeg)
 
 # 1 Testing Section
 ## 1.1 Test Planning
