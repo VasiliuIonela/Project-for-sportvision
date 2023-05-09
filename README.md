@@ -70,6 +70,13 @@ The test cases with steps can be viewed here:
 ## 1.5 Test Implementation
 * Testing environment is up and running:www.sportvision.ro
 * Cycle summary was created.
+* Test cases were added to the cycle summary.
+
+![image](https://github.com/VasiliuIonela/Project-for-sportvision/blob/main/cycle.summary.jpeg)
 ## 1.6 Test Execution
+* Test cases are executed on the created test Cycle summary:
+* Bugs have been created based on the failed tests. The complete bug reports can be found here:
+* Full regression testing is needed after the bugs are fixed.
+
 ## 1.7 Test Completion
 # 2 SQL Section
