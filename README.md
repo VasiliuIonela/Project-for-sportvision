@@ -11,7 +11,7 @@ The below Stories were created in Jira adn describe the functional specification
 
 ![image](https://github.com/VasiliuIonela/Project-for-sportvision/blob/main/story%20create%20account..jpeg)
 
-![image](https://github.com/VasiliuIonela/Project-for-sportvision/blob/main/story%20wishlist.jpeg)
+![image](https://github.com/VasiliuIonela/Project-for-sportvision/blob/main/story%20access%20product%20reviews.jpeg)
 
 ![image](https://github.com/VasiliuIonela/Project-for-sportvision/blob/main/story%20reviews.jpeg)
 
