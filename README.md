@@ -60,6 +60,8 @@ The following test cases were found:
 
 ![image](https://github.com/VasiliuIonela/Project-for-sportvision/blob/main/test%20cases%20sportvision.jpeg)
 ## 1.4 Test Design
+Functional test cases were created in Zephyr Squad.
+
 ## 1.5 Test Implementation
 ## 1.6 Test Execution
 ## 1.7 Test Completion
