@@ -62,7 +62,7 @@ The following test cases were found:
 ## 1.4 Test Design
 Functional test cases were created in Zephyr Squad.
 The test cases with steps can be viewed here:
-![test cases](https://github.com/VasiliuIonela/Project-for-sportvision/blob/main/Jira%20(1).doc)
+[test cases]("C:\Users\radu_\Downloads\Jira (1).doc")
 
 ## 1.5 Test Implementation
 ## 1.6 Test Execution
