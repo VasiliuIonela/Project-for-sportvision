@@ -54,6 +54,10 @@ The following status report was generated, to view the actual progress:
 
 ![image](https://github.com/VasiliuIonela/Project-for-sportvision/blob/main/Web%20capture_8-5-2023_182827_itfclasses.atlassian.net.jpeg)
 ## 1.3 Test Analysis
+The testing process will be executed, based on the requirements sent by the client, for the account of Manager modules. 
+
+The following test cases were found:
+![image]()
 ## 1.4 Test Design
 ## 1.5 Test Implementation
 ## 1.6 Test Execution
