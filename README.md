@@ -52,7 +52,7 @@ The entry criteria defined in the Test Planning phase have been achieved and the
 Periodic reports were generated to reflect the current status of the testing process, in case of major problems, control measures could be taken.
 The following status report was generated, to view the actual progress:
 
-![image](https://github.com/VasiliuIonela/Project-for-sportvision/blob/main/Web%20capture_8-5-2023_182827_itfclasses.atlassian.net.jpeg)
+![image](https://github.com/VasiliuIonela/Project-for-sportvision/blob/main/test%20metrics.jpeg)
 ## 1.3 Test Analysis
 The testing process will be executed, based on the requirements sent by the client, for the account of Manager modules. 
 
