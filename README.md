@@ -68,6 +68,8 @@ The test cases with steps can be viewed here:
 [test cases](https://github.com/VasiliuIonela/Project-for-sportvision/blob/main/Jira.pdf)
 
 ## 1.5 Test Implementation
+* Testing environment is up and running:www.sportvision.ro
+* Cycle summary was created.
 ## 1.6 Test Execution
 ## 1.7 Test Completion
 # 2 SQL Section
