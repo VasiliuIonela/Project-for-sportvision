@@ -75,7 +75,7 @@ The test cases with steps can be viewed here:
 ![image](https://github.com/VasiliuIonela/Project-for-sportvision/blob/main/cycle.summary.jpeg)
 ## 1.6 Test Execution
 * Test cases are executed on the created test Cycle summary:
-* Bugs have been created based on the failed tests. The complete bug reports can be found here:
+* Bugs have been created based on the failed tests. The complete bug reports can be found here: [bugs reports](https://github.com/VasiliuIonela/Project-for-sportvision/blob/main/bugs.pdf)
 * Full regression testing is needed after the bugs are fixed.
 
 ## 1.7 Test Completion
