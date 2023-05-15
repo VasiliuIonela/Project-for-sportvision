@@ -9,8 +9,6 @@ Tools used: JIRA, Zephyr Squad.
 
 The below Stories were created in Jira and describe the functional specifications of the Registration module, Wishlist module, Reviews module and Forgot password module, for which this project is performed upon: [Stories](https://github.com/VasiliuIonela/Project-for-sportvision/blob/main/Jira.pdf).
 
-
-
 # 1 Testing Section
 ## 1.1 Test Planning
 The Test Plan is designed to describe all details of testing for modules: Registration af a new account, Wishlist, Reviews for products, Forget password in the sportvision webpage online shop.
@@ -21,7 +19,7 @@ This plan identifies the items to be tested, the features to be tested, the tyoe
 * QA Lead:
 * QA Tester: Ionela Vasiliu
 ### 1.1.2 Entry criteria defined
-* All test hardware platform have been successfully instaled, configured and functioning properly.
+* All test hardware platform have been successfully installed, configured and functioning properly.
 * All the necessary documentation, design and requirements information is available(that will allow testers to operate the system and judge the correct behaviour).
 * Functional specifications are defined.
 * Roles needed for the project are allocated.
@@ -38,8 +36,8 @@ This plan identifies the items to be tested, the features to be tested, the tyoe
 ### 1.1.4 Test scope
  The scope of this project is limited to the testing of the features in the succeeding sections of this document. All the features of modules, as follow: Registration, Wishlist, Forget password, Reviews, which were defined in software requirements specifications, need to be tested.
 ### 1.1.5 Risks detected
-* Risks project:
-* Risks product:
+* Risks project: tight deadline, failure to detect bugs on time, unclear requirements, exceeding budget and deadlines, dependency on external resources.
+* Risks product: security risks, low performance, incompatibility with some browsers.
 ### 1.1.6 Evaluating entry criteria
 The entry criteria defined in the Test Planning phase have been achieved and the test process can continue.
 ## 1.2 Test monitoring and control
