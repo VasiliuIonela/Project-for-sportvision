@@ -7,7 +7,7 @@ Tools used: JIRA, Zephyr Squad.
 
 # Functional specifications
 
-The below Stories were created in Jira and describe the functional specifications of the Registration module, Wishlist module, Reviews module and Forgot password module, for which this project is performed upon: [Stories](file:///C:/Users/radu_/OneDrive/Desktop/Jira.pdf).
+The below Stories were created in Jira and describe the functional specifications of the Registration module, Wishlist module, Reviews module and Forgot password module, for which this project is performed upon: [Stories]("C:\Users\radu_\OneDrive\Desktop\Jira.pdf").
 
 
 
