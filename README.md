@@ -46,8 +46,9 @@ The following status report was generated, to view the actual progress:
 
 ![image](https://github.com/VasiliuIonela/Project-for-sportvision/blob/main/test%20metrics.jpeg)
 ## 1.3 Test Analysis
-The testing process will be executed, based on the requirements sent by the client, for the account of Manager modules. 
+The testing process will be executed, based on the requirements sent by the client. 
 The following test conditions were found:
+
 ![image](https://github.com/VasiliuIonela/Project-for-sportvision/blob/main/test%20cases%20sportvision.jpeg).
 
 ## 1.4 Test Design
@@ -61,6 +62,8 @@ Functional test cases were created in Zephyr Squad and  can be accessed here: [t
 ![image](https://github.com/VasiliuIonela/Project-for-sportvision/blob/main/cycle.summary.jpeg)
 ## 1.6 Test Execution
 * Test cases are executed on the created test Cycle summary:
+
+![image]().
 * Bugs have been created based on the failed tests. The complete bug reports can be found here: [bugs reports](https://github.com/VasiliuIonela/Project-for-sportvision/blob/main/bugs.pdf)
 * Full regression testing is needed after the bugs are fixed.
 
