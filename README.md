@@ -48,9 +48,8 @@ The following status report was generated, to view the actual progress:
 ## 1.3 Test Analysis
 The testing process will be executed, based on the requirements sent by the client, for the account of Manager modules. 
 
-The following test cases were found:
+The following test cases were found:[test cases](https://github.com/VasiliuIonela/Project-for-sportvision/blob/main/test%20cases.pdf).
 
-![image](https://github.com/VasiliuIonela/Project-for-sportvision/blob/main/test%20cases%20sportvision.jpeg)
 ## 1.4 Test Design
 Functional test cases were created in Zephyr Squad.
 
