@@ -68,4 +68,6 @@ Functional test cases were created in Zephyr Squad and  can be accessed here: [t
 * Full regression testing is needed after the bugs are fixed.
 
 ## 1.7 Test Completion
+* As the Exit Criteria were met and satisfied as mentioned in the appropriate section, this feature is suggested to 'Go live' by the Testing team.
+* The traceability matrix was generated and can be found here: [Traceability matrix]()
 # 2 SQL Section
