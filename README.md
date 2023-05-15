@@ -47,16 +47,11 @@ The following status report was generated, to view the actual progress:
 ![image](https://github.com/VasiliuIonela/Project-for-sportvision/blob/main/test%20metrics.jpeg)
 ## 1.3 Test Analysis
 The testing process will be executed, based on the requirements sent by the client, for the account of Manager modules. 
-
-The following test cases were found:[test cases](https://github.com/VasiliuIonela/Project-for-sportvision/blob/main/test.cases..pdf).
+The following test conditions were found:
+![image](https://github.com/VasiliuIonela/Project-for-sportvision/blob/main/test%20cases%20sportvision.jpeg).
 
 ## 1.4 Test Design
-Functional test cases were created in Zephyr Squad.
-
-![image](https://github.com/VasiliuIonela/Project-for-sportvision/blob/main/test.cases.steps.jpeg)
-
-The test cases with steps can be viewed here:
-[test cases](https://github.com/VasiliuIonela/Project-for-sportvision/blob/main/Jira.pdf)
+Functional test cases were created in Zephyr Squad and  can be accessed here: [test cases](https://github.com/VasiliuIonela/Project-for-sportvision/blob/main/test.cases..pdf).
 
 ## 1.5 Test Implementation
 * Testing environment is up and running:www.sportvision.ro
