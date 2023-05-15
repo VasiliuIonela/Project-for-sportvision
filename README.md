@@ -49,7 +49,7 @@ The following status report was generated, to view the actual progress:
 The testing process will be executed, based on the requirements sent by the client. 
 The following test conditions were found:
 
-![image](https://github.com/VasiliuIonela/Project-for-sportvision/blob/main/test%20cases%20sportvision.jpeg).
+![image](https://github.com/VasiliuIonela/Project-for-sportvision/blob/main/test%20cases%20sportvision.jpeg)
 
 ## 1.4 Test Design
 Functional test cases were created in Zephyr Squad and  can be accessed here: [test cases](https://github.com/VasiliuIonela/Project-for-sportvision/blob/main/test.cases..pdf).
@@ -63,7 +63,7 @@ Functional test cases were created in Zephyr Squad and  can be accessed here: [t
 ## 1.6 Test Execution
 * Test cases are executed on the created test Cycle summary:
 
-![image]().
+![image](https://github.com/VasiliuIonela/Project-for-sportvision/blob/main/execution.list.jpeg)
 * Bugs have been created based on the failed tests. The complete bug reports can be found here: [bugs reports](https://github.com/VasiliuIonela/Project-for-sportvision/blob/main/bugs.pdf)
 * Full regression testing is needed after the bugs are fixed.
 
