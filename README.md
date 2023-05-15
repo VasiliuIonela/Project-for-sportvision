@@ -7,15 +7,9 @@ Tools used: JIRA, Zephyr Squad.
 
 # Functional specifications
 
-The below Stories were created in Jira adn describe the functional specifications of the Registration module, Wishlist module, Reviews module and Forget password module, for which this project is performed upon.
+The below Stories were created in Jira and describe the functional specifications of the Registration module, Wishlist module, Reviews module and Forgot password module, for which this project is performed upon: [Stories](file:///C:/Users/radu_/OneDrive/Desktop/Jira.pdf).
 
-![image](https://github.com/VasiliuIonela/Project-for-sportvision/blob/main/story%20create%20account..jpeg)
 
-![image](https://github.com/VasiliuIonela/Project-for-sportvision/blob/main/story%20access%20product%20reviews.jpeg)
-
-![image](https://github.com/VasiliuIonela/Project-for-sportvision/blob/main/story%20create%20wishlist.jpeg)
-
-![image](https://github.com/VasiliuIonela/Project-for-sportvision/blob/main/story%20reset%20password.jpeg)
 
 # 1 Testing Section
 ## 1.1 Test Planning
