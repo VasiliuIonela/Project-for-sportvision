@@ -83,3 +83,8 @@ After Testing of the functionalities for account registration, review submission
 
 The tested functionalities generally performed well, with a few minor aspects that require adjustments to provide a better user experience. It is recommended to make these adjustments and further enhancements to ensure a seamless user experience in utilizing these functionalities.
 # 2 SQL Section
+In MySQL, I have created the following: 
+* DATABASE sportvision_store
+  * tables: users, products, user_wishlist, product_reviews
+Performed different queries inside the sql file:[sportvision_store]().
+
