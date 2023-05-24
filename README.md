@@ -86,5 +86,5 @@ The tested functionalities generally performed well, with a few minor aspects th
 In MySQL, I have created the following: 
 * DATABASE sportvision_store
   * tables: users, products, user_wishlist, product_reviews
-Performed different queries inside the sql file:[sportvision_store]().
+Performed different queries inside the sql file:[sportvision_store](https://github.com/VasiliuIonela/Project-for-sportvision/blob/main/sportvisionStore.sql).
 
