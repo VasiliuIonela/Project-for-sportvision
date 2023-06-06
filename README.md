@@ -42,14 +42,10 @@ This plan identifies the items to be tested, the features to be tested, the tyoe
 The entry criteria defined in the Test Planning phase have been achieved and the test process can continue.
 ## 1.2 Test monitoring and control
 Periodic reports were generated to reflect the current status of the testing process, in case of major problems, control measures could be taken.
-The following status report was generated, to view the actual progress:
-
-![image](https://github.com/VasiliuIonela/Project-for-sportvision/blob/main/test%20metrics.jpeg)
+The following status report was generated, to view the actual progress:[test ,metrics](https://github.com/VasiliuIonela/Project-for-sportvision/blob/main/test%20metrics.jpeg)
 ## 1.3 Test Analysis
 The testing process will be executed, based on the requirements sent by the client. 
-The following test conditions were found:
-
-![image](https://github.com/VasiliuIonela/Project-for-sportvision/blob/main/test%20cases%20sportvision.jpeg)
+The following test conditions were found:[test conditions](https://github.com/VasiliuIonela/Project-for-sportvision/blob/main/test%20cases%20sportvision.jpeg)
 
 ## 1.4 Test Design
 Functional test cases were created in Zephyr Squad and  can be accessed here: [test cases](https://github.com/VasiliuIonela/Project-for-sportvision/blob/main/test.cases..pdf).
@@ -57,13 +53,11 @@ Functional test cases were created in Zephyr Squad and  can be accessed here: [t
 ## 1.5 Test Implementation
 * Testing environment is up and running:www.sportvision.ro
 * Cycle summary was created.
-* Test cases were added to the cycle summary.
-
-![image](https://github.com/VasiliuIonela/Project-for-sportvision/blob/main/cycle.summary.jpeg)
+* Test cases were added to the cycle summary:
+[cycle summary](https://github.com/VasiliuIonela/Project-for-sportvision/blob/main/cycle.summary.jpeg)
 ## 1.6 Test Execution
 * Test cases are executed on the created test Cycle summary:
-
-![image](https://github.com/VasiliuIonela/Project-for-sportvision/blob/main/execution.list.jpeg)
+[cycle summary execution](https://github.com/VasiliuIonela/Project-for-sportvision/blob/main/execution.list.jpeg)
 
 * Bugs have been created based on the failed tests. The complete bug reports can be found here: [bugs reports](https://github.com/VasiliuIonela/Project-for-sportvision/blob/main/bugs.pdf)
 * Full regression testing is needed after the bugs are fixed.
@@ -72,8 +66,7 @@ Functional test cases were created in Zephyr Squad and  can be accessed here: [t
 * As the Exit Criteria were met and satisfied as mentioned in the appropriate section, this feature is suggested to 'Go live' by the Testing team.
 * The traceability matrix was generated and can be found here: [Traceability matrix](https://github.com/VasiliuIonela/Project-for-sportvision/blob/main/Forward%20Traceability_15_5_2023.xlsx).
 * Test execution chart was generated:
-
-![image](https://github.com/VasiliuIonela/Project-for-sportvision/blob/main/execution.chart.jpeg)
+[test execution chart](https://github.com/VasiliuIonela/Project-for-sportvision/blob/main/execution.chart.jpeg)
 
 After Testing of the functionalities for account registration, review submission, password recovery, and wishlist management, we have reached the following conclusions:
 **Account registration functionality:** It was tested and performed efficient. Users were able to create new accounts without major issues. However, we have identified some minor aspects that require adjustments, such as inadequate marking of mandatory fields with asterisks(bug was reported).
