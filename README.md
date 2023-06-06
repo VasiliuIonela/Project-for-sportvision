@@ -64,7 +64,7 @@ Functional test cases were created in Zephyr Squad and  can be accessed here: [t
 
 ## 1.7 Test Completion
 * As the Exit Criteria were met and satisfied as mentioned in the appropriate section, this feature is suggested to 'Go live' by the Testing team.
-* The traceability matrix was generated and can be found here: [Traceability matrix](https://github.com/VasiliuIonela/Project-for-sportvision/blob/main/Forward%20Traceability_15_5_2023.xlsx). 
+* The traceability matrix was generated and can be found here: [Traceability matrix](https://github.com/VasiliuIonela/Project-for-sportvision/blob/main/Forward%20Traceability_15_5_2023%20(1).xlsx).
 * Test execution chart was generated:
 [test execution chart](https://github.com/VasiliuIonela/Project-for-sportvision/blob/main/execution.chart.jpeg)
 
