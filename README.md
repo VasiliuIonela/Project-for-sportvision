@@ -59,7 +59,7 @@ Functional test cases were created in Zephyr Squad and  can be accessed here: [t
 * Test cases are executed on the created test Cycle summary:
 [cycle summary execution](https://github.com/VasiliuIonela/Project-for-sportvision/blob/main/execution.list.jpeg)
 
-* Bugs have been created based on the failed tests. The complete bug reports can be found here: [bugs reports](https://github.com/VasiliuIonela/Project-for-sportvision/blob/main/bugs.pdf)
+* Bugs have been created based on the failed tests. The complete bug reports can be found here: [bug reports](https://github.com/VasiliuIonela/Project-for-sportvision/blob/main/bugs.pdf)
 * Full regression testing is needed after the bugs are fixed.
 
 ## 1.7 Test Completion
