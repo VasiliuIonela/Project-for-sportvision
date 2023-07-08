@@ -38,7 +38,7 @@ This plan identifies the items to be tested, the features to be tested, the type
 The entry criteria defined in the Test Planning phase have been achieved and the test process can continue.
 ## 1.2 Test monitoring and control
 Periodic reports were generated to reflect the current status of the testing process, in case of major problems, control measures could be taken.
-The following status report was generated, to view the actual progress:[test metrics](https://github.com/VasiliuIonela/Project-for-sportvision/blob/main/test%20metrics.jpeg)
+The following status report was generated, to view the actual progress: [test metrics](https://github.com/VasiliuIonela/Project-for-sportvision/blob/main/test%20metrics.jpeg)
 ## 1.3 Test Analysis
 The testing process will be executed, based on the requirements sent by the client. 
 The following test conditions were found: [test conditions](https://github.com/VasiliuIonela/Project-for-sportvision/blob/main/test%20cases%20sportvision.jpeg)
