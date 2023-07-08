@@ -68,18 +68,13 @@ Functional test cases were created in Zephyr Squad and  can be accessed here: [t
 
 After Testing of the functionalities for account registration, review submission, password recovery, and wishlist management, we have reached the following conclusions:
 
-**Account registration functionality:** It was tested and performed efficient. Users were able to create new accounts without major issues. However, we have identified some minor aspects that require adjustments, such as inadequate marking of mandatory fields with asterisks(bug was reported).
+**Account registration functionality:** It was tested and performed efficient. Users were able to create new accounts without major issues. However, we have identified some minor aspects that require adjustments, such as inadequate marking of mandatory fields with asterisks (bug was reported).
 
-**Review submission functionality:** The functionality for submitting reviews was generally efficient, and users were able to express their opinions easily. However, we noticed a few minor issues regarding reviews, such as the inability for users to rate products on a scale of 1 to 5(bug was reported).
+**Review submission functionality:** The functionality for submitting reviews was generally efficient, and users were able to express their opinions easily. However, we noticed a few minor issues regarding reviews, such as the inability for users to rate products on a scale of 1 to 5 (bug was reported).
 
 **Password recovery functionality:** The testing of the password recovery functionality demonstrated that users were able to recover their passwords adequately.
 
 **Wishlist  functionality**  was tested and generally well-implemented. Users were able to add products to their wishlist and manage them appropriately. However, we observed that the system's responsiveness in terms of updating and displaying wishlist could be improved.
 
 The tested functionalities generally performed well, with a few minor aspects that require adjustments to provide a better user experience. It is recommended to make these adjustments and further enhancements to ensure a seamless user experience when using these functionalities.
-# 2 SQL Section
-In MySQL, I have created the following: 
-* DATABASE sportvision_store
-  * tables: users, products, user_wishlist, product_reviews
-Performed different queries inside the sql file:[sportvision_store](https://github.com/VasiliuIonela/Project-for-sportvision/blob/main/sportvisionStore.sql).
 
