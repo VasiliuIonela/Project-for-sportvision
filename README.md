@@ -47,7 +47,7 @@ The following test conditions were found: [test conditions](https://github.com/V
 Functional test cases were created in Zephyr Squad and  can be accessed here: [test cases](https://github.com/VasiliuIonela/Project-for-sportvision/blob/main/test.cases..pdf).
 
 ## 1.5 Test Implementation
-* Testing environment is up and running:www.sportvision.ro
+* Testing environment is up and running: www.sportvision.ro
 * Cycle summary was created.
 * Test cases were added to the cycle summary: [cycle summary](https://github.com/VasiliuIonela/Project-for-sportvision/blob/main/cycle.summary.jpeg)
 ## 1.6 Test Execution
