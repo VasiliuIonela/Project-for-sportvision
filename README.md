@@ -5,7 +5,7 @@ Application under test: https://www.sportvision.ro/
 
 The final project is split into 2 sections: Testing section and SQL section.
 
-SQL section can be found here: [SQL section](https://github.com/VasiliuIonela/SQL-project-for-sportvison#sql-project-for-sportvison)
+SQL section can be found here: [SQL section](https://github.com/VasiliuIonela/SQL-project-for-sportvison#sql-project-for-sportvison).
 
 # Functional specifications
 
