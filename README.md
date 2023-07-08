@@ -42,10 +42,10 @@ This plan identifies the items to be tested, the features to be tested, the type
 The entry criteria defined in the Test Planning phase have been achieved and the test process can continue.
 ## 1.2 Test monitoring and control
 Periodic reports were generated to reflect the current status of the testing process, in case of major problems, control measures could be taken.
-The following status report was generated, to view the actual progress: [test metrics](https://github.com/VasiliuIonela/Project-for-sportvision/blob/main/test%20metrics.jpeg)
+The following status report was generated, to view the actual progress: [test metrics](https://github.com/VasiliuIonela/Project-for-sportvision/blob/main/test%20metrics.jpeg).
 ## 1.3 Test Analysis
 The testing process will be executed, based on the requirements sent by the client. 
-The following test conditions were found: [test conditions](https://github.com/VasiliuIonela/Project-for-sportvision/blob/main/test%20cases%20sportvision.jpeg)
+The following test conditions were found: [test conditions](https://github.com/VasiliuIonela/Project-for-sportvision/blob/main/test%20cases%20sportvision.jpeg).
 
 ## 1.4 Test Design
 Functional test cases were created in Zephyr Squad and  can be accessed here: [test cases](https://github.com/VasiliuIonela/Project-for-sportvision/blob/main/test.cases..pdf).
@@ -53,11 +53,11 @@ Functional test cases were created in Zephyr Squad and  can be accessed here: [t
 ## 1.5 Test Implementation
 * Testing environment is up and running: www.sportvision.ro
 * Cycle summary was created.
-* Test cases were added to the cycle summary: [cycle summary](https://github.com/VasiliuIonela/Project-for-sportvision/blob/main/cycle.summary.jpeg)
+* Test cases were added to the cycle summary: [cycle summary](https://github.com/VasiliuIonela/Project-for-sportvision/blob/main/cycle.summary.jpeg).
 ## 1.6 Test Execution
-* Test cases are executed on the created test Cycle summary: [cycle summary execution](https://github.com/VasiliuIonela/Project-for-sportvision/blob/main/execution.list.jpeg)
+* Test cases are executed on the created test Cycle summary: [cycle summary execution](https://github.com/VasiliuIonela/Project-for-sportvision/blob/main/execution.list.jpeg).
 
-* Bugs have been created based on the failed tests. The complete bug reports can be found here: [bug reports](https://github.com/VasiliuIonela/Project-for-sportvision/blob/main/bugs.pdf)
+* Bugs have been created based on the failed tests. The complete bug reports can be found here: [bug reports](https://github.com/VasiliuIonela/Project-for-sportvision/blob/main/bugs.pdf).
 * Full regression testing is needed after the bugs are fixed.
 
 ## 1.7 Test Completion
