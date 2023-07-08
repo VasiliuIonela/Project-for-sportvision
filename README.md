@@ -1,7 +1,7 @@
 # Project-for-sportvision
 Application under test: https://www.sportvision.ro/
 
-Tools used: JIRA, Zephyr Squad, MySQL.
+Tools used: JIRA, Zephyr for Jira.
 
 # Functional specifications
 
