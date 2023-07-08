@@ -1,8 +1,6 @@
 # Project-for-sportvision
 Application under test: https://www.sportvision.ro/
 
-**The project will be split into 2 sections:** [Testing section](https://github.com/VasiliuIonela/Project-for-sportvision/blob/main/README.md#1-testing-section) **and** [SQL section](https://github.com/VasiliuIonela/Project-for-sportvision/blob/main/README.md#2-sql-section).
-
 Tools used: JIRA, Zephyr Squad, MySQL.
 
 # Functional specifications
